@@ -1,0 +1,49 @@
+IMPORTS{
+import main.Runner;
+}
+
+
+GLOBAL {
+	VARIABLES {
+		int numberOfAlerts = 0;
+	}
+	
+	EVENTS {
+		uploadCorrectAlert() = {*.uploadCorrectAlert()}
+		uploadIncorrectAlert() = {*.uploadIncorrectAlert()}
+		purgeAlerts() = {*.purgeAlerts()}
+	}
+	
+	PROPERTY apiFunctionalityProperty {
+		STATES {
+			BAD {
+				badState
+			}
+			NORMAL {
+				alertUploaded
+				alertsPurged
+			}
+			STARTING {
+				apiInitialised
+			}
+		}
+		
+		TRANSITIONS {
+			apiInitialised -> alertUploaded [uploadCorrectAlert\numberOfAlerts < 5\numberOfAlerts++;]
+			apiInitialised -> alertsPurged [purgeAlerts\\numberOfAlerts = 0;]
+			apiInitialised -> badState [uploadIncorrectAlert\\numberOfAlerts++;]
+			alertsPurged -> alertsPurged [purgeAlerts\\numberOfAlerts = 0;]
+			alertsPurged -> badState [uploadIncorrectAlert\\numberOfAlerts++;]
+			alertsPurged -> alertUploaded [uploadCorrectAlert\numberOfAlerts == 0\numberOfAlerts++;]
+			alertUploaded -> alertUploaded [uploadCorrectAlert\numberOfAlerts < 5\numberOfAlerts++;]
+			alertUploaded -> alertsPurged [purgeAlerts\\numberOfAlerts = 0;]
+			alertUploaded -> badState [uploadIncorrectAlert\\numberOfAlerts++;]
+			alertUploaded -> badState [uploadCorrectAlert\numberOfAlerts == 5\numberOfAlerts++;]
+			badState -> badState [uploadCorrectAlert\numberOfAlerts >= 5\numberOfAlerts++;]
+			badState -> badState [uploadIncorrectAlert\\numberOfAlerts++;]
+			badState -> alertsPurged [purgeAlerts\\numberOfAlerts = 0;]
+			
+			
+		}
+	}
+}

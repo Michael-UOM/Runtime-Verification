@@ -1,0 +1,84 @@
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.viewAlerts() TO STATE::> viewingAlerts
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>viewingAlerts
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.viewAlerts() TO STATE::> viewingAlerts
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>viewingAlerts
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.viewAlerts() TO STATE::> viewingAlerts
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>viewingAlerts
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.viewAlerts() TO STATE::> viewingAlerts
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>viewingAlerts
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.viewAlerts() TO STATE::> viewingAlerts
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>viewingAlerts
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.viewAlerts() TO STATE::> viewingAlerts
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>viewingAlerts
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.badLogin() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.viewAlerts() TO STATE::> viewingAlerts
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>viewingAlerts
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedOut
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.goodLogin() TO STATE::> loggedIn
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>loggedIn
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.viewAlerts() TO STATE::> viewingAlerts
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>viewingAlerts
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.RunnerTwo.logOut() TO STATE::> loggedOut

@@ -1,0 +1,144 @@
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>apiInitialised
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadIncorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$3$a679f4e9(_asp_APIFunctionality0.aj:32)
+main.Runner.run(Runner.java:191)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadIncorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$3$a679f4e9(_asp_APIFunctionality0.aj:32)
+main.Runner.run(Runner.java:191)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$2$6531b3ae(_asp_APIFunctionality0.aj:23)
+main.Runner.run(Runner.java:207)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$2$6531b3ae(_asp_APIFunctionality0.aj:23)
+main.Runner.run(Runner.java:207)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$2$6531b3ae(_asp_APIFunctionality0.aj:23)
+main.Runner.run(Runner.java:207)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$2$6531b3ae(_asp_APIFunctionality0.aj:23)
+main.Runner.run(Runner.java:207)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadIncorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$3$a679f4e9(_asp_APIFunctionality0.aj:32)
+main.Runner.run(Runner.java:191)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$2$6531b3ae(_asp_APIFunctionality0.aj:23)
+main.Runner.run(Runner.java:207)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$2$6531b3ae(_asp_APIFunctionality0.aj:23)
+main.Runner.run(Runner.java:207)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$2$6531b3ae(_asp_APIFunctionality0.aj:23)
+main.Runner.run(Runner.java:207)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadIncorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$3$a679f4e9(_asp_APIFunctionality0.aj:32)
+main.Runner.run(Runner.java:191)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadIncorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$3$a679f4e9(_asp_APIFunctionality0.aj:32)
+main.Runner.run(Runner.java:191)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertUploaded
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadIncorrectAlert() TO STATE::> !!!SYSTEM REACHED BAD STATE!!! badState 
+aspects._asp_APIFunctionality0.ajc$before$aspects__asp_APIFunctionality0$3$a679f4e9(_asp_APIFunctionality0.aj:32)
+main.Runner.run(Runner.java:191)
+main.Runner.main(Runner.java:224) 
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>badState
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.purgeAlerts() TO STATE::> alertsPurged
+[apiFunctionalityProperty]AUTOMATON::> apiFunctionalityProperty() STATE::>alertsPurged
+[apiFunctionalityProperty]MOVED ON METHODCALL: void main.Runner.uploadCorrectAlert() TO STATE::> alertUploaded
